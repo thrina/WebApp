@@ -1,0 +1,45 @@
+
+@media (min-width: 2000px) and (max-width: 2560px)
+{
+  .gallery-section img
+   {
+   min-height:680px;
+   }
+
+
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .header {
+    min-height: 400px;
+	
+   }
+   .banner-section h1 {
+	  font-size: 30px;
+	}
+}
+
+@media (min-width: 200px) and ( max-width: 767px) {
+  .header { 
+    min-height: 360px;
+  }
+  .navbar-nav li a {
+    padding: 15px;
+  }
+  .navbar-default .navbar-brand {
+     height: inherit;
+	 margin-top: 15px;
+   }
+   .banner-section h1 {
+	  font-size: 20px;
+	}
+	   
+	.about-section
+	 {
+	  padding: 40px 0;
+     }
+}

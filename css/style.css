@@ -1,0 +1,192 @@
+
+
+.header
+{ 
+	background: url(../images/banner.jpg);
+	background-position: center center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	min-height: 600px;
+	width: 100%;
+	position: relative;
+}
+
+   .navbar-nav>li>a
+   {
+    padding: 27px;
+	color:#f9e1e1;
+   }
+
+
+.banner-section {
+position: absolute; 
+right: 0;
+left: 0; 
+top: 22%;
+margin: 0 auto;
+}
+.banner-section h1 { 
+color: white;text-align:center; 
+font-size: 70px;
+}
+
+   .btn-findmore
+    {
+      margin:0 auto;
+	  display:block;
+	  min-height:50px;
+	  min-width:170px;
+	  border-radius:50px;
+
+	}
+
+
+
+	.navbar-default .navbar-brand
+	{
+	color: #fff;
+    float: left;
+	margin-top:30px;
+    padding: 1px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    }
+    .navbar-default {
+    background-color:#333;
+    border-color: transparent;
+}
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    background-color: transparent;
+	color: #fff;
+}
+
+	.gallery-section img { 
+	 
+	  width: 100%; 
+	  display: inline-block;
+	  min-height: 384px;
+	}
+
+	.gallery-section .col-lg-4 {
+	  padding: 0;
+	}
+	
+	.about-section { 
+	background: #f05f40!important;
+	padding: 80px 0; 
+	text-align:center;
+	}
+	.about-section h1
+	 {
+	   color:#fff;
+	   margin-top: 0;
+	 }
+     .main-container p {
+	 color: #fff; 
+	 margin:20px 0;
+	 text-align: center; 
+	 font-size: 16px;
+	 }
+    .btn-download
+	 {
+	   border-radius: 50px;
+	   min-height: 50px;
+	   padding:0;
+	   min-width: 170px;
+
+	 }
+
+	.service-section {
+	text-align: center;
+	padding: 80px 0;
+	}
+	.service-section h1 
+	{
+	margin:0 0 50px;
+	}
+	.service-section span
+	{ 
+	color: #f05f40;
+	}
+	.service-section h3 
+	{
+	color: #212529;
+	font-size: 24px;
+	}
+	.service-section p 
+	{
+	color: #6c757d; 
+	}
+
+	  .FreeDownload-section
+	   {
+	     text-align:center;
+		 background:#212529;
+		 padding:80px 0;
+	   }
+	   .FreeDownload-section h1 
+	   {
+	   color: #fff;
+	   }
+	
+	 .footer-section
+	  {
+	     text-align:center;
+		 padding: 80px 0;
+	  }
+	  
+	  
+	  .footer-section
+	  {
+	     font-size:16px;
+	   	 color:black;
+		 text-align:center;
+	  }
+	 .footer-paragraph
+	    {
+		 padding:25px 0;
+		 margin: 0 auto;
+		 width: 70%;
+		}
+      .footer-section i 
+	  {
+	  font-size: 50px;
+	  display: block;
+	  margin-bottom: 20px;
+	  }
+	  .footer-section h5 
+	  { 
+	  font-size: 18px;
+	  }
+
+	  input[type=text] {
+		width: 100%;
+		box-sizing: border-box;
+		border: 2px solid #ccc;
+		border-radius: 4px;
+		font-size: 16px;
+		background-color: white;
+		background-image: url('searchicon.png');
+		background-position: 10px 10px; 
+		background-repeat: no-repeat;
+		padding: 12px 20px 12px 40px;
+		
+	   
+	  }
+	  .search-box{
+		  width:100%;
+	  }
+	  p.black {
+		color: red!important;
+		text-align: left !important;
+	}
+	.p-d{
+		padding: 5px !important;
+	}
